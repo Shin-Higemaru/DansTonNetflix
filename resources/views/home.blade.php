@@ -87,7 +87,7 @@
         <a class="nav-link" href="#">Séries recommandées
             <span class="badge badge-pill bg-light align-text-bottom">7</span>
         </a>
-        <a class="nav-link" href="#">Série du moment</a>
+        <a class="nav-link" href="#">Séries du moment</a>
         <a class="nav-link" href="#">Link</a>
         <a class="nav-link" href="#">Link</a>
     </nav>
