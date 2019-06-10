@@ -76,11 +76,17 @@
         <a class="nav-link active" href="#">Dashboard</a>
         <a class="nav-link" href="#">
             Amis
-            <span class="badge badge-pill bg-light align-text-bottom">27</span>
+            <span class="badge badge-pill bg-light align-text-bottom">11</span>
         </a>
-        <a class="nav-link" href="#">Séries visionnées</a>
-        <a class="nav-link" href="#">Séries à voir</a>
-        <a class="nav-link" href="#">Séries recommandées</a>
+        <a class="nav-link" href="#">Séries visionnées
+            <span class="badge badge-pill bg-light align-text-bottom">15</span>
+        </a>
+        <a class="nav-link" href="#">Séries à voir
+            <span class="badge badge-pill bg-light align-text-bottom">5</span>
+        </a>
+        <a class="nav-link" href="#">Séries recommandées
+            <span class="badge badge-pill bg-light align-text-bottom">7</span>
+        </a>
         <a class="nav-link" href="#">Série du moment</a>
         <a class="nav-link" href="#">Link</a>
         <a class="nav-link" href="#">Link</a>
